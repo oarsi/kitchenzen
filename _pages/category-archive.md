@@ -1,5 +1,5 @@
 ---
-title: "Posts by Category"
+title: "Recipes by Category"
 layout: categories
 permalink: /categories/
 ---
