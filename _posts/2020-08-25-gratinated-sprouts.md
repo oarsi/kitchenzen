@@ -6,7 +6,6 @@ header:
   overlay_image: /assets/images/brussel_sprouts.jpg
   show_overlay_excerpt: false
 categories:
-  - Lunch
   - Dinner
 tags:
   - easy

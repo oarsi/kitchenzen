@@ -7,7 +7,6 @@ header:
   show_overlay_excerpt: false
 categories:
   - Dinner
-  - Lunch
 tags:
   - lowcarb
   - easy
