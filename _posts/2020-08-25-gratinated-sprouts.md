@@ -7,6 +7,7 @@ header:
   show_overlay_excerpt: false
 categories:
   - Lunch
+  - Dinner
 tags:
   - easy
   - duration-short

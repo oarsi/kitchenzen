@@ -6,7 +6,8 @@ header:
   overlay_image: /assets/images/zoodles_salmon.jpg
   show_overlay_excerpt: false
 categories:
-  - Cake
+  - Dinner
+  - Lunch
 tags:
   - lowcarb
   - easy
@@ -42,5 +43,3 @@ Fry the salmon in a hot frying pan with some olive oil, but do not yet brown. Pu
 Add the salmon and lemongrass and cook for a few minutes. Add the zucchini strings and cook covered for another 3-4 minutes, the zucchini should still be firm to the bite.
 
 Season with salt, pepper and sweet chilli sauce.
-
-Translated with www.DeepL.com/Translator (free version)
